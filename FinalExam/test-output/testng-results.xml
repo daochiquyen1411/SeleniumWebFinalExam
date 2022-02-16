@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-08T19:31:51 ICT" name="Default suite" finished-at="2021-10-08T19:32:45 ICT" duration-ms="54040">
+    <groups>
+    </groups>
+    <test started-at="2021-10-08T19:31:51 ICT" name="Default test" finished-at="2021-10-08T19:32:45 ICT" duration-ms="54040">
+      <class name="bridalmiiduu.test.OrderProductSuccessfullyTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:bridalmiiduu.test.OrderProductSuccessfullyTest@2f8dad04]" started-at="2021-10-08T19:31:51 ICT" name="setUp" finished-at="2021-10-08T19:31:59 ICT" duration-ms="8241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="orderProductsSuccessfully(java.lang.String)[pri:0, instance:bridalmiiduu.test.OrderProductSuccessfullyTest@2f8dad04]" started-at="2021-10-08T19:31:59 ICT" name="orderProductsSuccessfully" data-provider="products" finished-at="2021-10-08T19:32:06 ICT" duration-ms="6421" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Proin tristique]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderProductsSuccessfully -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:bridalmiiduu.test.OrderProductSuccessfullyTest@2f8dad04]" started-at="2021-10-08T19:32:06 ICT" name="tearDown" finished-at="2021-10-08T19:32:06 ICT" duration-ms="248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:bridalmiiduu.test.OrderProductSuccessfullyTest@2f8dad04]" started-at="2021-10-08T19:32:06 ICT" name="setUp" finished-at="2021-10-08T19:32:13 ICT" duration-ms="7331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="orderProductsSuccessfully(java.lang.String)[pri:0, instance:bridalmiiduu.test.OrderProductSuccessfullyTest@2f8dad04]" started-at="2021-10-08T19:32:13 ICT" name="orderProductsSuccessfully" data-provider="products" finished-at="2021-10-08T19:32:17 ICT" duration-ms="3350" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Voluptatem Accusantium]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderProductsSuccessfully -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:bridalmiiduu.test.OrderProductSuccessfullyTest@2f8dad04]" started-at="2021-10-08T19:32:17 ICT" name="tearDown" finished-at="2021-10-08T19:32:17 ICT" duration-ms="225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:bridalmiiduu.test.OrderProductSuccessfullyTest@2f8dad04]" started-at="2021-10-08T19:32:17 ICT" name="setUp" finished-at="2021-10-08T19:32:24 ICT" duration-ms="7113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="orderProductsSuccessfully(java.lang.String)[pri:0, instance:bridalmiiduu.test.OrderProductSuccessfullyTest@2f8dad04]" started-at="2021-10-08T19:32:24 ICT" name="orderProductsSuccessfully" data-provider="products" finished-at="2021-10-08T19:32:31 ICT" duration-ms="7061" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sunt Explicabo]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderProductsSuccessfully -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:bridalmiiduu.test.OrderProductSuccessfullyTest@2f8dad04]" started-at="2021-10-08T19:32:31 ICT" name="tearDown" finished-at="2021-10-08T19:32:31 ICT" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:bridalmiiduu.test.OrderProductSuccessfullyTest@2f8dad04]" started-at="2021-10-08T19:32:31 ICT" name="setUp" finished-at="2021-10-08T19:32:38 ICT" duration-ms="7015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="orderProductsSuccessfully(java.lang.String)[pri:0, instance:bridalmiiduu.test.OrderProductSuccessfullyTest@2f8dad04]" started-at="2021-10-08T19:32:38 ICT" name="orderProductsSuccessfully" data-provider="products" finished-at="2021-10-08T19:32:45 ICT" duration-ms="6487" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Lorem ipsum]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderProductsSuccessfully -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:bridalmiiduu.test.OrderProductSuccessfullyTest@2f8dad04]" started-at="2021-10-08T19:32:45 ICT" name="tearDown" finished-at="2021-10-08T19:32:45 ICT" duration-ms="244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- bridalmiiduu.test.OrderProductSuccessfullyTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
